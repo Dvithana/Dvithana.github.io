@@ -518,3 +518,10 @@ body {
     margin-left: 0;
   }
 }
+
+
+.project-card .card-meta {
+  font-size: 0.8rem;
+  color: #93c5fd;
+  margin-bottom: 0.5rem;
+}
